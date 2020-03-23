@@ -6,3 +6,6 @@ read -p "Enter value of b:" b
 read -p "Enter value of c:" c
 #Usecase 2
 total1=$(($a + $b * $c))
+
+#Usecase 3
+total2=$(($a * $b + $c))

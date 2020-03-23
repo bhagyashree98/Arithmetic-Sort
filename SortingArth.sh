@@ -12,3 +12,6 @@ total2=$(($a * $b + $c))
 
 #Usecase 4
 total3=$(($c + $a / $b))
+
+#Usecase 5
+total4=$(($a % $b + $c))
